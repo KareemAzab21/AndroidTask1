@@ -1,0 +1,15 @@
+git init
+
+git status
+
+gtt add .
+
+git commit -m"comment"
+
+git log
+
+git checkout
+
+
+
+
